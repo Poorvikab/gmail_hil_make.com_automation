@@ -5,7 +5,7 @@ An automation that reads incoming emails, drafts AI-powered replies using Google
 
 ---
 ## Demo Video
-
+https://github.com/user-attachments/assets/3553a5f3-c362-4eda-9247-228648c6712b
 
 ## 🧠 How It Works
 
